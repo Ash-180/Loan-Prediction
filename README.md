@@ -2,6 +2,10 @@
 
 A Classification Problem which predicts if a loan will get approved or not.
 
+Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customer first apply for home loan after that company validates the customer eligibility for loan.
+The company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
+
+
 Dataset- The data has 614 rows and 13 columns.
 
 Dataset Description-
@@ -35,3 +39,5 @@ Credit_History - credit history meets guidelines
 Property_Area - Urban/ Semi Urban/ Rural
 
 Loan_Status - Loan approved (Y/N) (**Trarget Variable**)
+
+Link for the dataset: https://www.kaggle.com/leonbora/analytics-vidhya-loan-prediction
